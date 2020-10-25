@@ -33,7 +33,7 @@ function Tasks() {
               </svg>
             </label>
           </div>
-          <p>ReactJS Hooks (useState, useReducer, useEffect ets.</p>
+          <input value="ReactJS Hooks (useState, useReducer, useEffect ets." />
         </div>
       </div>
     </div>
